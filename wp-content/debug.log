@@ -1,0 +1,18 @@
+
+[07-Dec-2023 08:06:40 UTC] Failed to send email
+[07-Dec-2023 09:24:00 UTC] PHP Notice:  Function map_meta_cap was called incorrectly. The post type contact_us is not registered, so it may not be reliable to check the capability edit_post against a post of that type. Please see <a>Debugging in WordPress</a> for more information. (This message was added in version 4.4.0.) in C:\xampp\htdocs\milayacapital\wp-includes\functions.php on line 6031
+[08-Dec-2023 07:00:58 UTC] PHP Warning:  Undefined array key "fallback_smtp_password" in C:\xampp\htdocs\milayacapital\wp-content\plugins\post-smtp\Postman\PostmanInputSanitizer.php on line 169
+[08-Dec-2023 07:00:58 UTC] PHP Warning:  Undefined array key "pushover_user" in C:\xampp\htdocs\milayacapital\wp-content\plugins\post-smtp\Postman\PostmanInputSanitizer.php on line 169
+[08-Dec-2023 07:00:58 UTC] PHP Warning:  Undefined array key "pushover_token" in C:\xampp\htdocs\milayacapital\wp-content\plugins\post-smtp\Postman\PostmanInputSanitizer.php on line 169
+[08-Dec-2023 07:00:58 UTC] PHP Warning:  Undefined array key "slack_token" in C:\xampp\htdocs\milayacapital\wp-content\plugins\post-smtp\Postman\PostmanInputSanitizer.php on line 169
+[08-Dec-2023 07:00:58 UTC] PHP Warning:  Undefined array key "notification_chrome_uid" in C:\xampp\htdocs\milayacapital\wp-content\plugins\post-smtp\Postman\PostmanInputSanitizer.php on line 169
+[08-Dec-2023 07:00:58 UTC] PHP Warning:  Undefined array key "tmp_dir" in C:\xampp\htdocs\milayacapital\wp-content\plugins\post-smtp\Postman\PostmanInputSanitizer.php on line 107
+[08-Dec-2023 07:00:58 UTC] PHP Warning:  Undefined array key "tmp_dir" in C:\xampp\htdocs\milayacapital\wp-content\plugins\post-smtp\Postman\PostmanInputSanitizer.php on line 108
+[08-Dec-2023 07:01:10 UTC] ERROR PostmanWpMail: Exception code=0 message=Unable to send mail. mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set()
+[08-Dec-2023 07:01:12 UTC] PHP Warning:  mail(): Failed to connect to mailserver at &quot;localhost&quot; port 25, verify your &quot;SMTP&quot; and &quot;smtp_port&quot; setting in php.ini or use ini_set() in C:\xampp\htdocs\milayacapital\wp-content\plugins\post-smtp\Postman\Extensions\Core\Notifications\PostmanMailNotify.php on line 24
+[08-Dec-2023 07:01:12 UTC] ERROR PostmanSendTestEmailAjaxController: Test Email NOT delivered to server - 0
+[08-Dec-2023 07:36:45 UTC] PHP Warning:  Undefined variable $client_image in C:\xampp\htdocs\milayacapital\wp-content\themes\milayacapital\functions.php on line 366
+[08-Dec-2023 07:36:46 UTC] PHP Warning:  Undefined variable $client_image in C:\xampp\htdocs\milayacapital\wp-content\themes\milayacapital\functions.php on line 366
+[08-Dec-2023 07:36:49 UTC] PHP Warning:  Undefined variable $client_image in C:\xampp\htdocs\milayacapital\wp-content\themes\milayacapital\functions.php on line 366
+[08-Dec-2023 07:36:50 UTC] PHP Warning:  Undefined variable $client_image in C:\xampp\htdocs\milayacapital\wp-content\themes\milayacapital\functions.php on line 366
+[08-Dec-2023 07:36:50 UTC] PHP Warning:  Undefined variable $client_image in C:\xampp\htdocs\milayacapital\wp-content\themes\milayacapital\functions.php on line 366
