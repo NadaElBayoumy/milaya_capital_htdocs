@@ -198,7 +198,7 @@ function custom_business_heights_post_type() {
         'label'                 => __( 'Business Height', 'business_heights' ),
         'description'           => __( 'Custom content for "Business Heights" on your website', 'business_heights' ),
         'labels'                => $labels,
-        'supports'              => array( 'title', 'editor', 'thumbnail', 'custom-fields' ),
+        'supports'              => array( 'title', 'thumbnail', 'custom-fields' ),
         'taxonomies'            => array( 'category', 'post_tag' ),
         'hierarchical'          => false,
         'public'                => true,
